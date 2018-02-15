@@ -31,8 +31,8 @@ def main():
         acc_y=(m1*m/(r1**2))*direction(y,y1,r1) + (m2*m/(r2**2))*direction(y,y2,r2)
         velocity_x+=acc_x*h
         velocity_y+=acc_y*h
-        x+=(1/2.0)*velocity_x*h
-        y+=(1/2.0)*velocity_y*h
+        x+=(1)*velocity_x*h
+        y+=(1)*velocity_y*h
         if r1 < 0.1 or r2 < 0.1:
             print 'hit'
             break
