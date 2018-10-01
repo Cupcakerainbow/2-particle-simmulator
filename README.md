@@ -3,4 +3,4 @@ Simulator written in python
 
 License Padha??
 
-Popcorn results with Enjoy
+Popcorn result with Enjoy
