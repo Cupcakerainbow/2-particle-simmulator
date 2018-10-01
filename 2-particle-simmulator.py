@@ -25,6 +25,7 @@ def main():
     x_list,y_list=[],[]
     p.ion()
     i=0
+    #
     while True:
         i+=1
         r1=math.sqrt((x-x1)**2 + (y- y1)**2)
@@ -46,6 +47,6 @@ def main():
 
     while True:
         p.pause(0.05)
-
+#
 if __name__ == '__main__':
     main()
