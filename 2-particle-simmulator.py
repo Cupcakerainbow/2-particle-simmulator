@@ -15,6 +15,7 @@ def main():
     x2,y2=map(float,raw_input('x , y of 2nd').split())
     m2=int(raw_input('mass od second'))
     m=1
+    #initialising acceleration and coordinate variables
     t=0
     h=0.01
     acc_x=0.0
