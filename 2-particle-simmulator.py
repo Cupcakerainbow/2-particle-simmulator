@@ -1,3 +1,4 @@
+#main
 import matplotlib.pyplot as p
 import math
 def direction(co_ordinte_of_mass,co_ordinate_of_object,r):
